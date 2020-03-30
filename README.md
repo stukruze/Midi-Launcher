@@ -1,7 +1,7 @@
 # Midi-Launcher
 A web based program to open files on your computer with midi events
 
-by Stuart Kruze
+by Stuart Kruze audiolaboratory@hotmail.com
 
 This program current runs in google chrome browser but can work in firefox with proper plug-ins. Research Web Midi API.
 
