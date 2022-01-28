@@ -5,5 +5,6 @@ This program current runs in google chrome browser but can work in firefox with 
 You must change a google chrome flag with chrome://flags/ find "Native File System API" and enable.
 Additionally you may want to allow popups from this page by going to chrome settings then site settings then popup and redirects and adding the site file:///Users/*your-user-name*/*path-to-file*/midi-launcher.html
 If your using the Program Change feature and you want to trigger track 1, send a Program Change message of 0. If you would like to trigger track 2, send a Program Change of 1. And so on.
+Make sure files to open are stored in the Midi-Launcher folder. 
 Attach a midi interface, a midi controller and enjoy.
 Any bugs please post.
